@@ -4,6 +4,7 @@
 		"outDir": "build",
 		"target": "ES6",
 		"lib": ["ES6", "DOM"],
-		"strict": true // typescript보호 빡세게
+		"strict": true, // typescript보호 빡세게
+		"allowJs": true
 	}
 }
